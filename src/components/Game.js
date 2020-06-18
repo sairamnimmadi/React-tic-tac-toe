@@ -28,7 +28,7 @@ export default class Game extends Component {
     });
   }
   openWindow() {
-    window.open("https://github.com", "_blank");
+    window.open("https://github.com/sairamnimmadi/React-tic-tac-toe", "_blank");
   }
 
   render() {
